@@ -9,6 +9,11 @@ Envia uma mensagem de Hello World, um Identificador do micro-serviço, o timesta
   - PHP 7.0^
   - Extensões PHP: dom, curl e bcmath
   - RabbitMQ
+  - Composer
+
+## Instalação
+- Baixar repositório: git clone git@github.com:lhorente/php-messaging-test.git
+- Baixar dependências pelo comando: composer update
 
 ## Enviar mensagens
 Para enviar mensagens utilize o comando:

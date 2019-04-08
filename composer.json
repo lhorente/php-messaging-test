@@ -1,0 +1,15 @@
+{
+    "require": {
+        "php": ">=5.4.0",
+        "ext-bcmath": "*",
+        "ext-sockets": "*",
+        "php-amqplib/php-amqplib": "^2.9"
+    },
+    "require-dev": {
+        "ext-curl": "*",
+        "phpunit/phpunit": "^4.8",
+        "squizlabs/php_codesniffer": "^2.5",
+        "phpdocumentor/phpdocumentor": "^2.9",
+        "nategood/httpful": "^0.2.20"
+    }
+}
